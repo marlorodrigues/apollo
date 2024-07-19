@@ -1,0 +1,3 @@
+https://www.kaaiot.com/iot-dashboards
+https://ubidots.com/platform
+https://thethings.io
